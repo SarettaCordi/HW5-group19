@@ -10,4 +10,4 @@ In this assignment we perform an analysis of the Wikipedia Hyperlink graph. In p
 The <b><>Code</b> section contains the following files:
 
 - <code>Homework_5.ipynb</code>:  
-  The main script, containing with the code of our analysis.
+  The main script, containing the code of our analysis, and the relative outputs.
